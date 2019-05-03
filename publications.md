@@ -5,15 +5,69 @@ displayed_years:
  - 2018
  - 2017
 publications:
+
+##### 2019 #####
+
 ##### 2018 #####
 
+ - year: 2018
+   title: "Platform-Independent Dynamic Taint Analysis for JavaScript"
+   authors: "Rezwana Karim, Frank Tip, Alena Sochůrková, Koushik Sen"
+   publication: "IEEE Transactions on Software Engineering (to appear)"
+   links:
+   - text: PDF
+     link: https://www.franktip.org/pubs/tse2018.pdf
+
 # November 4-9 
+ - year: 2018
+   title: "Julia: dynamism and performance reconciled by design"
+   authors: "Jeff Bezanson, Jiahao Chen, Benjamin Chung, Stefan Karpinski, Viral B. Shah, Jan Vitek, Lionel Zoubritzky"
+   publication: "Object-oriented Programming, Systems, Languages, and Applications"
+   short_publication: "OOPSLA'19"
+   links:
+   - text: PDF
+     link: http://delivery.acm.org/10.1145/3280000/3276490/oopsla18main-p214-p.pdf?ip=147.32.232.150&id=3276490&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575995_9e7f7d6127c1291be45982174f771e3a
+   - text: DOI
+     link: https://doi.org/10.1145/3276490
+
+ - year: 2018
+   title: "Julia subtyping: a rational reconstruction"
+   authors: "Francesco Zappa Nardelli, Julia Belyakova, Artem Pelenitsyn, Benjamin Chung, Jeff Bezanson, and Jan Vitek"
+   publication: "Object-oriented Programming, Systems, Languages, and Applications"
+   short_publication: "OOPSLA'19"
+   links:
+   - text: PDF
+     link: http://delivery.acm.org/10.1145/3280000/3276483/oopsla18main-p201-p.pdf?ip=147.32.232.150&id=3276483&acc=OA&key=D6C3EEB3AD96C931%2E9BD1EC80ACA8C1C5%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1550575809_0e20f7974cd6983125acf0a46a7e47b8
+   - text: DOI
+     link: https://doi.org/10.1145/3276483
+
  - year: 2018
    title: "Self-Contained Development Environments"
    authors: "Guido Chari, Javier Pímas, Jan Vitek, and Olivier Fluckiger"
    publication: "Dynamics Language Symposium"
    short_publication: "DLS'18"
-   note: "Accepted."
+   links:
+   - text: PDF
+     link: https://charig.github.io/assets/papers/SCDE-DLS.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3276945.3276948
+
+# September 24-26
+ - year: 2018
+   title: "Contextual equivalence for a probabilistic language with continuous random variables and recursion"
+   authors: "Mitchell Wand, Ryan Culpepper, Theophilos Giannalopoulos, and Andrew Cobb"
+   publication: "International Conference on Functional Programming"
+   short_publication: "ICFP'18"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   links:
+   - text: DOI
+     link: https://doi.org/10.1145/3236782
+   - text: arXiv
+     link: https://arxiv.org/abs/1807.02809
+   - text: Artifact
+     link: https://dx.doi.org/10.1145/3235042
 
 # July 15-21
  - year: 2018
@@ -39,13 +93,13 @@ publications:
    - "Distinguished Artifact Award"
    links:
    - text: PDF
-     link: https://hal.archives-ouvertes.fr/hal-01854879v1
+     link: http://fikovnik.net/publications/ISSTA18.pdf
    - text: HTML
      link: https://conf.researchr.org/event/issta-2018/issta-2018-technical-papers-tests-from-traces-automated-unit-test-generation-for-r
    - text: Slides
      link: https://docs.google.com/presentation/d/1St2fMYfmrsp0Wxido7Pyj_d9qp3jjs24M4W6yWx-QPU/edit#slide=id.g3b5286a051_2_338
    - text: DOI
-     link: 10.1145/3213846.3213863
+     link: https://doi.org/10.1145/3213846.3213863
    - text: Artifact
      link: https://doi.org/10.5281/zenodo.1306437
 
@@ -59,9 +113,9 @@ publications:
    - "ecoop_artifact_evaluated"
    links:
    - text: PDF
-     link: (http://benchung.github.io/papers/ecoop18.pdf
+     link: http://benchung.github.io/papers/ecoop18.pdf
    - text: DOI
-     link: 10.4230/LIPIcs.ECOOP.2018.12
+     link: https://doi.org/10.4230/LIPIcs.ECOOP.2018.12
 
 # July 10-13
  - year: 2018
