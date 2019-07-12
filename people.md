@@ -55,28 +55,6 @@ people:
     note: "Coming from software engineering and domain-specific modeling. I’m interested in various aspects of programming languages in particular in static and dynamic program analysis. Most recently I have been working on dynamic tracing in R."
 
   - type: researcher
-    name: Konrad Siek
-    photo: konrad_siek.jpg
-    title: Post-doctoral researcher
-    email: siekkonr@fit.cvut.cz
-    web: https://kondziu.github.io
-    bio:
-    - Joined Czech Technical University, 2017
-    - PhD, Poznań University of Technology, 2017
-    note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
-    
-  - type: researcher
-    name: Guido Chari
-    photo: guido_chari.jpg
-    title: Post-doctoral researcher
-    email: guido.chari@fit.cvut.cz
-    web: http://lafhis.dc.uba.ar/en/~gchari
-    bio:
-    - Joined Czech Technical University, 2018
-    - PhD, Buenos Aires University, 2017
-    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
-   
-  - type: researcher
     name: Colette Kerr
     photo: colette_kerr.jpg
     title: Research assistant
@@ -101,6 +79,30 @@ people:
     bio:
     - Joined Czech Technical University, 2016
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
+
+
+  - type: alumni
+    name: Konrad Siek
+    photo: konrad_siek.jpg
+    title: Post-doctoral researcher
+    email: siekkonr@fit.cvut.cz
+    web: https://kondziu.github.io
+    bio: January 2017 - June 2019
+    #- Joined Czech Technical University, 2017
+    #- PhD, Poznań University of Technology, 2017
+    note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
+    
+  - type: alumni
+    name: Guido Chari
+    photo: guido_chari.jpg
+    title: Post-doctoral researcher
+    email: guido.chari@fit.cvut.cz
+    web: http://lafhis.dc.uba.ar/en/~gchari
+    bio: March 2018 - June 2019
+    #- Joined Czech Technical University, 2018
+    #- PhD, Buenos Aires University, 2017
+    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
+   
 
   - type: alumni
     name: Julia Belyakova
