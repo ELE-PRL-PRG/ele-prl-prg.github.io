@@ -14,7 +14,7 @@ publications:
    authors: "Ryan Culpepper"
    short_publication: "Scheme'19"
    publication: "Scheme and Functional Programming Workshop"
-   publication_notes: "to appear"
+   publication_note: "to appear"
    links:
    - text: HTML
      link: https://icfp19.sigplan.org/home/scheme-2019
