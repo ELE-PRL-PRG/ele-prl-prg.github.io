@@ -81,6 +81,17 @@ people:
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
 
+  - type: student
+    name: Jan Sliacky
+    photo: jan_sliacky.jpg
+    title: Master's student
+    email: sliacjan@fit.cvut.cz
+    web: https://github.com/Taskkill
+    bio:
+    - Joined Czech Technical University, 2016
+    note: "I currently work on Lambdulus. I like functional programming languages and various type systems. I hope to create one in the future."
+
+ 
   - type: alumni
     name: Konrad Siek
     photo: konrad_siek.jpg
