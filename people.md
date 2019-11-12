@@ -70,7 +70,17 @@ people:
 #    bio:
 #    - Joined Czech Technical University, 2018
 #    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
-   
+  
+  - type: researcher
+    name: Hyeyoung Shin
+    photo: hyeyoung_shin.jpg
+    title: Research Assistant
+    web: hyeyoungshin.org
+    bio:
+    - Joined Czech Technical Univeristy, 2019
+    - MA, Northeastern University, May 2019
+    note: "I am interested in logic and foundations of computing science, and more specifically programming languages theory. I am currently learning the R language and how to help programmers test their R programs better."
+
   - type: student
     name: Jan Ječmen
     photo: jan_jecmen.jpg
