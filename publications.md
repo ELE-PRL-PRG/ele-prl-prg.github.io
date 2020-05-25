@@ -8,6 +8,43 @@ displayed_years:
 publications:
 
 ##### 2019 #####
+
+ - year: 2019 
+   title: "Scala Implicits Are Everywhere: A Large-Scale Study of the Use of Scala Implicits in the Wild"
+   authors: "Filip Křikava, Heather Miller, and Jan Vitek"
+   short_publication: "SPLASH'19 OOPSLA"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   grants: "ELE"
+   badges:
+   - "acm_artifact_evaluated_reusable"
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   links:
+   - text: Zenodo
+     link: https://zenodo.org/record/3407292
+   - text: Artifact
+     link: https://zenodo.org/record/3369436
+
+ - year: 2019
+   title: "Syntax Templates in Racket"
+   authors: "Ryan Culpepper"
+   short_publication: "Scheme'19"
+   publication: "Scheme and Functional Programming Workshop"
+   publication_note: "to appear"
+   links:
+   - text: HTML
+     link: https://icfp19.sigplan.org/home/scheme-2019
+
+ - year: 2019
+   title: "From Macros to DSLs: The Evolution of Racket"
+   authors: "Ryan Culpepper, Matthias Felleisen, Matthew Flatt, Shriram Krishnamurthi"
+   publication: "Summit on Advances in Programming Languages"
+   short_publication: "SNAPL'19"
+   links:
+   - text: HTML
+     link: http://drops.dagstuhl.de/opus/volltexte/2019/10548/
+   - text: DOI
+     link: http://dx.doi.org/10.4230/LIPIcs.SNAPL.2019.5
  
  - year: 2019
    title: "R Melts Brains: An IR for First-Class Environments and Lazy Effectful Arguments"
