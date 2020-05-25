@@ -71,17 +71,17 @@ people:
 #    - Joined Czech Technical University, 2018
 #    note: "I am figuring out how we can combine compilers with machine learning to help optimize code."
   
-  - type: researcher
-    name: Hyeyoung Shin
-    photo: hyeyoung_shin.jpg
-    title: Research Assistant
-    web: hyeyoungshin.org
-    bio:
-    - Joined Czech Technical Univeristy, 2019
-    - MA, Northeastern University, May 2019
-    note: "I am interested in logic and foundations of computing science, and more specifically programming languages theory. I am currently learning the R language and how to help programmers test their R programs better."
+#  - type: researcher
+#    name: Hyeyoung Shin
+#    photo: hyeyoung_shin.jpg
+#    title: Research Assistant
+#    web: hyeyoungshin.org
+#    bio:
+#    - Joined Czech Technical Univeristy, 2019
+#    - MA, Northeastern University, May 2019
+#    note: "I am interested in logic and foundations of computing science, and more specifically programming languages theory. I am currently learning the R language and how to help programmers test their R programs better."
 
-  - type: student
+  - type: alumni
     name: Jan Ječmen
     photo: jan_jecmen.jpg
     title: PhD student
@@ -91,7 +91,7 @@ people:
     note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
 
-  - type: student
+  - type: researcher
     name: Jan Sliacky
     photo: jan_sliacky.jpg
     title: Master's student
@@ -113,17 +113,17 @@ people:
     #- PhD, Poznań University of Technology, 2017
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
     
-#  - type: alumni
-#    name: Guido Chari
-#    photo: guido_chari.jpg
-#    title: Post-doctoral researcher
-#    email: guido.chari@fit.cvut.cz
-#    web: http://lafhis.dc.uba.ar/en/~gchari
-#    bio: March 2018 - June 2019
-#    #- Joined Czech Technical University, 2018
-#    #- PhD, Buenos Aires University, 2017
-#    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
-#   
+  - type: alumni
+    name: Guido Chari
+    photo: guido_chari.jpg
+    title: Post-doctoral researcher
+    email: guido.chari@fit.cvut.cz
+    web: http://lafhis.dc.uba.ar/en/~gchari
+    bio: March 2018 - June 2019
+    #- Joined Czech Technical University, 2018
+    #- PhD, Buenos Aires University, 2017
+    note: "My main research interest aims at making programming languages more flexible. I am also interested in ensuring that dynamic PLs do not suffer from prohibitive performance overheads. In addition, I am interested in providing mechanism to help developers reason about the correctness of their programs."
+   
 
   - type: alumni
     name: Julia Belyakova
