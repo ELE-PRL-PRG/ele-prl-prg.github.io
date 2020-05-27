@@ -86,9 +86,9 @@ people:
     photo: jan_jecmen.jpg
     title: PhD student
     email: jan.jecmen@gmail.com
-    bio:
-    - Joined Czech Technical University, 2016
-    note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
+    bio: October 2017- June 2019
+#    - Joined Czech Technical University, 2016
+#    note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
 
 
   - type: researcher
