@@ -2,19 +2,166 @@
 layout: publications
 title: Publications
 displayed_years:
- - 2019 
+ - 2020
+ - 2019
  - 2018
  - 2017
 publications:
 
+##### 2021 #####
+
+ - year: 2021
+   title: "Formally Verified Speculation and Deoptimization in a JIT Compiler"
+   authors: "Aurèle Barrière, Sandrine Blazy, Olivier Flückiger, David Pichardie, Jan Vitek"
+   publication: "Principles of Programming Languages"
+   short_publication: "POPL'21"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/popl21.pdf
+   grants:
+   - ELE
+   - BC
+
+##### 2020 #####
+
+ - year: 2020
+   title: "Contextual Dispatch for Function Specialization"
+   authors: "Olivier Flückiger, Guido Chari, Ming-Ho Yee, Jan Jecmen, Jakob Hain, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   links:
+   - text: PDF
+     link: https://o1o.ch/about/assets/cd.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3428288
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.3973073
+   grants:
+   - ELE
+   - BC
+
+ - year: 2020
+   title: "Sampling Optimized Code for Type Feedback"
+   authors: "Olivier Flückiger, Andreas Wälchli, Sebastián Krynski, Jan Vitek"
+   publication: "Dynamic Languages Symposium"
+   short_publication: "DLS'20"
+   badges:
+   - "acm_artifact_available"
+   links:
+   - text: PDF
+     link: https://arxiv.org/pdf/2010.02080
+   - text: DOI
+     link: https://doi.org/10.1145/3426422.3426984
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.4061655
+   grants:
+   - ELE
+   - BC
+
+ - year: 2020
+   title: "World Age in Julia: Optimizing Method Dispatch in the Presence of Eval"
+   authors: "Julia Belyakova, Benjamin Chung, Jack Gelinas, Jameson Nash, Ross Tate, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla20-j.pdf
+   - text: DOI
+     link: https://doi.org/10.1145/3428275
+   - text: Artifact
+     link: https://github.com/julbinb/juliette-wa
+   grants:
+   - ELE
+   - BC
+
+ - year: 2020
+   title: "Designing Types for R, Empirically"
+   authors: "Alexi Turcotte, Aviral Goel, Filip Krikava, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'20"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla20-r.pdf
+   - text: DOI
+     link: https://dl.acm.org/doi/10.1145/3428249
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.4037278
+   grants:
+   - ELE
+   - BC
+
+ - year: 2020
+   title: "Larger-than-memory R"
+   authors: "Konrad Siek, Colette Kerr"
+   publication: "The R User Conference"
+   short_publication: "useR!'20"
+   publication_note: Talk
+   links:
+   - text: Video
+     link: https://www.youtube.com/watch?v=6BI5xWWDrlA
+   - text: Slides
+     link: https://drive.google.com/file/d/1C782g11whwyqbwqvDaZFo9iMt8528TpX/view
+   grants: 
+   - ELE
+   - BC
+
 ##### 2019 #####
+
+# October 
+ - year: 2019
+   title: "On the design, implementation, and use of laziness in R"
+   authors: "Aviral Goel, Jan Vitek"
+   publication: "Object-Oriented Programming, Systems, Languages & Applications"
+   short_publication: "OOPSLA'19"
+   badges:
+   - "acm_artifact_available"
+   - "acm_artifact_evaluated_functional"
+   - "acm_artifact_evaluated_reusable"
+   links:
+   - text: PDF
+     link: http://janvitek.org/pubs/oopsla19a.pdf
+   - text: Artifact
+     link: https://doi.org/10.5281/zenodo.3369573
+   - text: DOI
+     link: https://doi.org/10.1145/3360579
+   - text: YouTube
+     link: https://www.youtube.com/watch?v=qLxz9HPP6wI
+   grants: 
+   - BC
+   - ELE
+
+# October
+ - year: 2019
+   title: "Lambdulus: teaching lambda calculus practically"
+   authors: "Jan Sliacky and Petr Maj"
+   publication: "SPLASH-E'19"
+   links:
+   - text: PDF
+     link: https://dl.acm.org/doi/pdf/10.1145/3358711.3361629
+   - text: DOI
+     link: https://doi.org/10.1145/3358711.3361629
+   grants:
+   - BC
+   - ELE
 
  - year: 2019 
    title: "Scala Implicits Are Everywhere: A Large-Scale Study of the Use of Scala Implicits in the Wild"
    authors: "Filip Křikava, Heather Miller, and Jan Vitek"
    short_publication: "SPLASH'19 OOPSLA"
    publication: "Object-Oriented Programming, Systems, Languages & Applications"
-   grants: "ELE"
+   grants:
+   - ELE
    badges:
    - "acm_artifact_evaluated_reusable"
    - "acm_artifact_available"
