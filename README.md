@@ -19,8 +19,8 @@ sudo gem install jekyll bundler      # if you do not have jekyll and bundler
 ## Build the site
 
 ```sh
-git clone https://github.com/prl-prg-erc/prl-prg-erc.github.io.git
-cd prl-prg-erc.github.io
+git clone https://github.com/ELE-PRL-PRG/ele-prl-prg.github.io.git
+cd ele-prl-prg.github.io
 bundle install
 bundle exec jekyll serve
 ```
