@@ -2,6 +2,7 @@
 layout: publications
 title: Publications
 displayed_years:
+ - 2021
  - 2020
  - 2019
  - 2018
